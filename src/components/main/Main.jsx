@@ -1,7 +1,5 @@
-import { FaPen, FaRegCompass } from "react-icons/fa6";
 import "./Main.css";
-import { SlPlane } from "react-icons/sl";
-import { LuImagePlus, LuLightbulb, LuMic, LuSend } from "react-icons/lu";
+import { LuImagePlus, LuMic, LuSend } from "react-icons/lu";
 import { useContext } from "react";
 import { Context } from "../../context/Context";
 import gemini from "../../assets/logo.webp";

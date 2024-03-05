@@ -1,6 +1,5 @@
 import { useContext, useState } from "react";
 import "./Sidebar.css";
-// import logo from "../../assets/logo.webp";
 import {
   MdOutlineAdd,
   MdOutlineHistory,
