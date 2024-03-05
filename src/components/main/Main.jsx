@@ -63,7 +63,7 @@ const Main = () => {
               onChange={(e) => setInput(e.target.value)}
               value={input}
               type="text"
-              placeholder="Apana question pucho..."
+              placeholder="Apana question pucho."
             />
             <div className="">
               <LuImagePlus className="input-icon" />

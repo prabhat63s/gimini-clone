@@ -155,7 +155,7 @@ img {
 @media (max-width: 600px) {
   .main-bottom input {
     flex: none;
-    width: 150px;
+    width: 200px;
   }
   
   .search-box {

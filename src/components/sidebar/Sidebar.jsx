@@ -12,7 +12,7 @@ import {
 import { Context } from "../../context/Context";
 
 const Sidebar = () => {
-  const [extended, seExtended] = useState(false);
+  const [extended, seExtended] = useState(true);
   const { onSent, prevPrompt, setRecentPrompt, newChat } = useContext(Context);
 
   const loadPrompt = async (prompt) => {
